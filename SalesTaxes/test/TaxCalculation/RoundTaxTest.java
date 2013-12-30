@@ -1,7 +1,6 @@
 package TaxCalculation;
 
 import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class RoundTaxTest {
