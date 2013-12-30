@@ -4,7 +4,6 @@
  * @author WeiZhou
  */
 
-
 package TaxCalculation;
 
 public interface TaxCalculator {
