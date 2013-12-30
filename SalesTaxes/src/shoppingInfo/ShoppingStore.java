@@ -1,15 +1,15 @@
+/**
+ * The ShoppingStore deals with getting a sales order and placing in shopping cart and billing the items in the cart.
+ * 
+ * @author WeiZhou
+ */
+
 package shoppingInfo;
 
 import java.util.Scanner;
 import BillInfo.*;
 import Products.Product;
 
-//TODO: Auto-generated Javadoc
-/**
- * The ShoppingStore deals with getting a sales order and placing in shopping cart and billing the items in the cart.
- * 
- * @author WeiZhou
- */
 public class ShoppingStore {
 	/** The shooping cart holds the purchased items to be billed. */
 	private ShoppingCart sc;
