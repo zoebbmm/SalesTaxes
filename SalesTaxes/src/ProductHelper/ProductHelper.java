@@ -1,7 +1,10 @@
 /**
  * ProductHelper is an abstract class, being used to create new specific product object.
+ * 
  * @author WeiZhou
+ * 
  */
+
 package ProductHelper;
 
 import Products.Product;
