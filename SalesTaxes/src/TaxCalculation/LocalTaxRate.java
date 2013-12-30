@@ -1,6 +1,5 @@
 package TaxCalculation;
 
-
 public enum LocalTaxRate {
 	/** The tax values of various products. */
 	BOOK_TAX(0.0),
