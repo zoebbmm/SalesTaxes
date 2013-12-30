@@ -9,8 +9,6 @@ package Products;
 import ProductHelper.MedicalProductHelper;
 import TaxCalculation.LocalTaxRate;
 
-
-
 public class MedicalProduct extends Product {
 	public MedicalProduct(){
 		super();
