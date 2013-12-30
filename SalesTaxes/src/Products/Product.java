@@ -2,6 +2,7 @@
  * The Product is the item which is purchased in the shopping store and for which a receipt is generated.
  *
  * @author WeiZhou
+ * 
  */
 package Products;
 import ProductHelper.*;
