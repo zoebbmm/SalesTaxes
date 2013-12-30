@@ -2,6 +2,7 @@
  * Perform billing of product items in the shopping cart and generate the receipt.
  * 
  * @author WeiZhou
+ * 
  */
 
 package BillInfo;
