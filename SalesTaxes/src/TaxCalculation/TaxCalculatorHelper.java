@@ -2,6 +2,7 @@
  * The TaxCalculator generate the tax calculator for a region.
  *  
  * @author WeiZhou
+ * 
  */
 
 package TaxCalculation;
