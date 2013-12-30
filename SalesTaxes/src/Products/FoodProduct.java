@@ -2,6 +2,7 @@
  * FoodProduct is an item belonging to the category 'Food' in the shopping store.
  *
  * @author WeiZhou
+ * 
  */
 
 package Products;
