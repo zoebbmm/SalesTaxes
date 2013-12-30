@@ -1,6 +1,6 @@
 /**
- * @author weizhou
- *
+ * @author WeiZhou
+ * Main method to drive the whole program.
  */
 package main;
 
