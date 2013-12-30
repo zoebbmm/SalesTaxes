@@ -1,4 +1,5 @@
 package ProductHelper;
+
 import Products.MedicalProduct;
 
 public class MedicalProductHelper extends ProductHelper{
