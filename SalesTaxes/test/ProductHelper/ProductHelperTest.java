@@ -1,7 +1,6 @@
 package ProductHelper;
 
 import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class ProductHelperTest {
