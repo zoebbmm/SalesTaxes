@@ -2,6 +2,7 @@
  * The Bill calculates the product's taxed cost, the total tax value, and total amount of all products.
  * 
  * @author WeiZhou
+ * 
  */
 
 package BillInfo;
