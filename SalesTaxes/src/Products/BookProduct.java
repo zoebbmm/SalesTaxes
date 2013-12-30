@@ -2,6 +2,7 @@
  * BookProduct is an item belonging to the category 'Book' in the shopping store.
  *
  * @author WeiZhou
+ * 
  */
 
 package Products;
