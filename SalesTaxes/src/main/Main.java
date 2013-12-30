@@ -2,7 +2,6 @@
  * Main method to drive the whole program.
  * 
  * @author WeiZhou
- * 
  */
 package main;
 
