@@ -1,13 +1,13 @@
-package shoppingInfo;
-
-import Products.*;
-import java.util.HashMap;
-
 /**
  * The StoreShelf is used to store all the different product items of the shoppingstore from which a product of a specific category can be retrieved for billing.
  * 
  * @author WeiZhou
  */
+
+package shoppingInfo;
+
+import Products.*;
+import java.util.HashMap;
 
 public class StoreShelf {
 	// The product items mapped to their respective categories 
