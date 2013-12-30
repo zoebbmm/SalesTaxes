@@ -2,6 +2,7 @@
  * The ShoppingCart holds the products purchased and from it the products are retrieved for billing.
  * 
  * @author WeiZhou
+ * 
  */
 package shoppingInfo;
 
