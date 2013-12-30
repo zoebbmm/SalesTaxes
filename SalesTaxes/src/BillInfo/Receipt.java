@@ -2,6 +2,7 @@
  * The Receipt is to print the detail information about the products purchased with their taxed cost, the total tax and total amount payable.
  * 
  * @author WeiZhou
+ * 
  */
 
 package BillInfo;
