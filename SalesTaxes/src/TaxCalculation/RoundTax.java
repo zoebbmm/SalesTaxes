@@ -1,4 +1,5 @@
 package TaxCalculation;
+
 import java.text.DecimalFormat;
 
 public class RoundTax {
